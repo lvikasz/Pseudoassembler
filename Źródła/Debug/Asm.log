@@ -1,0 +1,13 @@
+﻿  memory_helpers.c
+c:\users\basin\source\repos\asm\asm\memory_helpers.c(8): warning C4013: 'contains' undefined; assuming extern returning int
+c:\users\basin\source\repos\asm\asm\memory_helpers.c(10): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\basin\source\repos\asm\asm\memory_helpers.c(18): warning C4013: 'strtol' undefined; assuming extern returning int
+c:\users\basin\source\repos\asm\asm\memory_helpers.c(20): warning C4013: 'replace_char' undefined; assuming extern returning int
+c:\users\basin\source\repos\asm\asm\memory_helpers.c(23): warning C4013: 'free' undefined; assuming extern returning int
+c:\users\basin\source\repos\asm\asm\memory_helpers.c(10): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\basin\source\repos\asm\asm\memory_helpers.c(45): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+c:\users\basin\source\repos\asm\asm\memory_helpers.c(63): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\basin\source\repos\asm\asm\memory_helpers.c(58): warning C4715: 'resolve_memory_label': not all control paths return a value
+c:\users\basin\source\repos\asm\asm\memory_helpers.c(48): warning C4715: 'resolve_memory_address': not all control paths return a value
+c:\users\basin\source\repos\asm\asm\memory_helpers.c(37): warning C4715: 'resolve_memory': not all control paths return a value
+  Asm.vcxproj -> C:\Users\basin\source\repos\ASM\Asm\Debug\Asm.exe
